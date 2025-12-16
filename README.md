@@ -6,13 +6,13 @@ A fully automated GitHub repository analyzer that counts lines of code across al
 ```
 [ LANGUAGES BREAKDOWN ]
 
-JavaScript   --> 135,523 lines
-TypeScript   --> 118,016 lines
-JSX          --> 20,576 lines
-PHP          --> 5,248 lines
-Others       --> 15,053 lines
+JavaScript   --> 145,783 lines
+TypeScript   --> 59,288 lines
+JSX          --> 15,938 lines
+C#           --> 417 lines
+Others       --> 549,078 lines
 
-[ TOTAL LINES OF CODE: 294,416 ]
+[ TOTAL LINES OF CODE: 770,504 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 *Stats update automatically via GitHub Actions.*
@@ -66,13 +66,13 @@ This GitHub Action automatically fetches all your public repositories (excluding
 ```
 [ LANGUAGES BREAKDOWN ]
 
-JavaScript   --> 135,523 lines
-TypeScript   --> 118,016 lines
-JSX          --> 20,576 lines
-PHP          --> 5,248 lines
-Others       --> 15,053 lines
+JavaScript   --> 145,783 lines
+TypeScript   --> 59,288 lines
+JSX          --> 15,938 lines
+C#           --> 417 lines
+Others       --> 549,078 lines
 
-[ TOTAL LINES OF CODE: 294,416 ]
+[ TOTAL LINES OF CODE: 770,504 ]
 ```
     <!-- LANGUAGES BREAKDOWN END -->
    ```

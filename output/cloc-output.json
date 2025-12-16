@@ -1,99 +1,269 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 2.68596196174622,
-  "n_files"            : 4314,
-  "n_lines"            : 358190,
-  "files_per_second"   : 1606.12847889899,
-  "lines_per_second"   : 133356.318928333,
+  "elapsed_seconds"    : 5.919517993927,
+  "n_files"            : 7232,
+  "n_lines"            : 1098644,
+  "files_per_second"   : 1221.72109408562,
+  "lines_per_second"   : 185596.868043501,
   "report_file"        : "../output/cloc-output.json"},
-"JavaScript" :{
-  "nFiles": 1041,
-  "blank": 25631,
-  "comment": 15162,
-  "code": 135523},
-"TypeScript" :{
-  "nFiles": 2430,
-  "blank": 11853,
-  "comment": 2461,
-  "code": 118016},
-"JSX" :{
-  "nFiles": 172,
-  "blank": 1935,
-  "comment": 73,
-  "code": 20576},
-"Vuejs Component" :{
-  "nFiles": 308,
-  "blank": 1110,
-  "comment": 86,
-  "code": 7937},
-"Svelte" :{
-  "nFiles": 252,
-  "blank": 603,
-  "comment": 15,
-  "code": 6073},
-"PHP" :{
-  "nFiles": 77,
-  "blank": 798,
-  "comment": 3607,
-  "code": 5248},
 "Python" :{
-  "nFiles": 8,
-  "blank": 83,
-  "comment": 36,
-  "code": 275},
-"Bourne Shell" :{
-  "nFiles": 2,
-  "blank": 34,
-  "comment": 49,
-  "code": 188},
-"Gradle" :{
-  "nFiles": 10,
-  "blank": 27,
-  "comment": 7,
-  "code": 171},
-"DOS Batch" :{
-  "nFiles": 2,
-  "blank": 48,
-  "comment": 4,
-  "code": 138},
-"Bourne Again Shell" :{
-  "nFiles": 1,
-  "blank": 19,
-  "comment": 20,
-  "code": 121},
-"Swift" :{
-  "nFiles": 1,
-  "blank": 19,
-  "comment": 13,
-  "code": 52},
+  "nFiles": 1078,
+  "blank": 49700,
+  "comment": 110434,
+  "code": 242052},
+"JavaScript" :{
+  "nFiles": 2416,
+  "blank": 22391,
+  "comment": 37538,
+  "code": 145783},
+"C++" :{
+  "nFiles": 123,
+  "blank": 14339,
+  "comment": 5858,
+  "code": 67929},
+"Dart" :{
+  "nFiles": 995,
+  "blank": 8901,
+  "comment": 6317,
+  "code": 65400},
+"TypeScript" :{
+  "nFiles": 850,
+  "blank": 5910,
+  "comment": 2644,
+  "code": 59288},
+"C/C++ Header" :{
+  "nFiles": 115,
+  "blank": 9142,
+  "comment": 9467,
+  "code": 42569},
 "Java" :{
-  "nFiles": 4,
-  "blank": 19,
-  "comment": 17,
-  "code": 50},
-"INI" :{
-  "nFiles": 2,
-  "blank": 5,
+  "nFiles": 825,
+  "blank": 8749,
+  "comment": 5501,
+  "code": 38876},
+"C" :{
+  "nFiles": 8,
+  "blank": 8610,
+  "comment": 2374,
+  "code": 35263},
+"JSX" :{
+  "nFiles": 203,
+  "blank": 1511,
+  "comment": 592,
+  "code": 15938},
+"CUDA" :{
+  "nFiles": 56,
+  "blank": 2219,
+  "comment": 271,
+  "code": 9268},
+"Pascal" :{
+  "nFiles": 25,
+  "blank": 886,
+  "comment": 1184,
+  "code": 6460},
+"Metal" :{
+  "nFiles": 1,
+  "blank": 1008,
+  "comment": 131,
+  "code": 6069},
+"Go" :{
+  "nFiles": 61,
+  "blank": 1121,
+  "comment": 950,
+  "code": 5901},
+"SQL" :{
+  "nFiles": 81,
+  "blank": 1377,
+  "comment": 272,
+  "code": 5053},
+"Bourne Shell" :{
+  "nFiles": 60,
+  "blank": 727,
+  "comment": 882,
+  "code": 3162},
+"Objective-C" :{
+  "nFiles": 7,
+  "blank": 603,
+  "comment": 278,
+  "code": 2888},
+"CMake" :{
+  "nFiles": 60,
+  "blank": 802,
+  "comment": 963,
+  "code": 2835},
+"Rust" :{
+  "nFiles": 29,
+  "blank": 423,
+  "comment": 323,
+  "code": 2526},
+"Qt" :{
+  "nFiles": 7,
+  "blank": 7,
   "comment": 0,
-  "code": 24},
-"EJS" :{
-  "nFiles": 2,
+  "code": 2000},
+"Maven" :{
+  "nFiles": 12,
+  "blank": 131,
+  "comment": 50,
+  "code": 1681},
+"DOS Batch" :{
+  "nFiles": 20,
+  "blank": 310,
+  "comment": 27,
+  "code": 1305},
+"Gradle" :{
+  "nFiles": 29,
+  "blank": 194,
+  "comment": 62,
+  "code": 1081},
+"Dockerfile" :{
+  "nFiles": 45,
+  "blank": 444,
+  "comment": 395,
+  "code": 949},
+"Kotlin" :{
+  "nFiles": 23,
+  "blank": 150,
+  "comment": 57,
+  "code": 866},
+"Swift" :{
+  "nFiles": 21,
+  "blank": 117,
+  "comment": 68,
+  "code": 676},
+"make" :{
+  "nFiles": 10,
+  "blank": 159,
+  "comment": 105,
+  "code": 632},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 13,
+  "code": 588},
+"Windows Resource File" :{
+  "nFiles": 8,
+  "blank": 184,
+  "comment": 232,
+  "code": 552},
+"Windows Module Definition" :{
+  "nFiles": 5,
+  "blank": 83,
+  "comment": 0,
+  "code": 451},
+"C#" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 86,
+  "code": 417},
+"Arduino Sketch" :{
+  "nFiles": 8,
+  "blank": 106,
+  "comment": 154,
+  "code": 370},
+"Delphi Form" :{
+  "nFiles": 4,
   "blank": 0,
   "comment": 0,
-  "code": 14},
-"Dockerfile" :{
+  "code": 367},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 58,
+  "code": 281},
+"INI" :{
+  "nFiles": 13,
+  "blank": 47,
+  "comment": 9,
+  "code": 196},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 4,
+  "code": 139},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 91,
+  "code": 120},
+"F# Script" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 8,
+  "code": 114},
+"CoffeeScript" :{
+  "nFiles": 7,
+  "blank": 23,
+  "comment": 11,
+  "code": 92},
+"F#" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 12,
+  "code": 87},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 26,
+  "comment": 43,
+  "code": 76},
+"Objective-C++" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 3,
+  "code": 52},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 14,
+  "code": 42},
+"Visual Studio Solution" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 23},
+"FXML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"Nix" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"C Shell" :{
   "nFiles": 1,
   "blank": 9,
-  "comment": 10,
-  "code": 10},
+  "comment": 5,
+  "code": 12},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
 "ProGuard" :{
   "nFiles": 1,
   "blank": 3,
   "comment": 18,
   "code": 0},
 "SUM": {
-  "blank": 42196,
-  "comment": 21578,
-  "code": 294416,
-  "nFiles": 4314} }
+  "blank": 140635,
+  "comment": 187505,
+  "code": 770504,
+  "nFiles": 7232} }
