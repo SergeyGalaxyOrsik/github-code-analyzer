@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 5.85059690475464,
-  "n_files"            : 7171,
-  "n_lines"            : 1093460,
-  "files_per_second"   : 1225.68690284786,
-  "lines_per_second"   : 186897.169263425,
+  "elapsed_seconds"    : 5.84747290611267,
+  "n_files"            : 7110,
+  "n_lines"            : 1089990,
+  "files_per_second"   : 1215.90986639161,
+  "lines_per_second"   : 186403.599897073,
   "report_file"        : "../output/cloc-output.json"},
 "Python" :{
   "nFiles": 1078,
@@ -23,15 +23,15 @@
   "comment": 5858,
   "code": 67929},
 "Dart" :{
-  "nFiles": 997,
-  "blank": 8990,
-  "comment": 6427,
-  "code": 66057},
+  "nFiles": 1000,
+  "blank": 9043,
+  "comment": 6466,
+  "code": 66278},
 "TypeScript" :{
   "nFiles": 850,
-  "blank": 5922,
+  "blank": 5925,
   "comment": 2643,
-  "code": 59367},
+  "code": 59376},
 "C/C++ Header" :{
   "nFiles": 115,
   "blank": 9142,
@@ -43,10 +43,10 @@
   "comment": 2374,
   "code": 35263},
 "Java" :{
-  "nFiles": 765,
-  "blank": 7720,
-  "comment": 4436,
-  "code": 34475},
+  "nFiles": 699,
+  "blank": 6981,
+  "comment": 4204,
+  "code": 31055},
 "JSX" :{
   "nFiles": 203,
   "blank": 1511,
@@ -58,10 +58,10 @@
   "comment": 271,
   "code": 9268},
 "Go" :{
-  "nFiles": 63,
-  "blank": 1229,
-  "comment": 1063,
-  "code": 6536},
+  "nFiles": 66,
+  "blank": 1342,
+  "comment": 1177,
+  "code": 7113},
 "Pascal" :{
   "nFiles": 25,
   "blank": 886,
@@ -74,14 +74,14 @@
   "code": 6069},
 "SQL" :{
   "nFiles": 78,
-  "blank": 1349,
-  "comment": 254,
+  "blank": 1347,
+  "comment": 253,
   "code": 5011},
 "Bourne Shell" :{
   "nFiles": 60,
-  "blank": 727,
-  "comment": 882,
-  "code": 3162},
+  "blank": 708,
+  "comment": 886,
+  "code": 3109},
 "Objective-C" :{
   "nFiles": 7,
   "blank": 603,
@@ -103,10 +103,10 @@
   "comment": 0,
   "code": 2000},
 "Maven" :{
-  "nFiles": 12,
-  "blank": 101,
-  "comment": 46,
-  "code": 1458},
+  "nFiles": 11,
+  "blank": 95,
+  "comment": 43,
+  "code": 1321},
 "DOS Batch" :{
   "nFiles": 20,
   "blank": 310,
@@ -119,9 +119,9 @@
   "code": 1082},
 "Dockerfile" :{
   "nFiles": 44,
-  "blank": 427,
-  "comment": 377,
-  "code": 923},
+  "blank": 429,
+  "comment": 381,
+  "code": 926},
 "Kotlin" :{
   "nFiles": 23,
   "blank": 150,
@@ -263,7 +263,7 @@
   "comment": 18,
   "code": 0},
 "SUM": {
-  "blank": 139727,
-  "comment": 186622,
-  "code": 767111,
-  "nFiles": 7171} }
+  "blank": 139132,
+  "comment": 186547,
+  "code": 764311,
+  "nFiles": 7110} }
