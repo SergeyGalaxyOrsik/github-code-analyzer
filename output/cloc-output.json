@@ -1,37 +1,37 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 5.98475885391235,
-  "n_files"            : 7119,
-  "n_lines"            : 1093637,
-  "files_per_second"   : 1189.52161211077,
-  "lines_per_second"   : 182737.02027026,
+  "elapsed_seconds"    : 5.71254706382751,
+  "n_files"            : 6620,
+  "n_lines"            : 1064554,
+  "files_per_second"   : 1158.85259692976,
+  "lines_per_second"   : 186353.650675523,
   "report_file"        : "../output/cloc-output.json"},
 "Python" :{
-  "nFiles": 1078,
-  "blank": 49700,
-  "comment": 110434,
-  "code": 242052},
+  "nFiles": 1076,
+  "blank": 49610,
+  "comment": 110403,
+  "code": 241706},
 "JavaScript" :{
-  "nFiles": 2415,
-  "blank": 22378,
+  "nFiles": 2417,
+  "blank": 22380,
   "comment": 37538,
-  "code": 145710},
+  "code": 145748},
 "Dart" :{
-  "nFiles": 1004,
-  "blank": 9244,
-  "comment": 6682,
-  "code": 67987},
+  "nFiles": 1006,
+  "blank": 9388,
+  "comment": 6812,
+  "code": 68982},
 "C++" :{
   "nFiles": 123,
   "blank": 14339,
   "comment": 5858,
   "code": 67929},
 "TypeScript" :{
-  "nFiles": 850,
-  "blank": 5925,
-  "comment": 2643,
-  "code": 59376},
+  "nFiles": 899,
+  "blank": 6267,
+  "comment": 2682,
+  "code": 61628},
 "C/C++ Header" :{
   "nFiles": 115,
   "blank": 9142,
@@ -42,16 +42,16 @@
   "blank": 8610,
   "comment": 2374,
   "code": 35263},
-"Java" :{
-  "nFiles": 703,
-  "blank": 7185,
-  "comment": 4375,
-  "code": 32079},
 "JSX" :{
   "nFiles": 203,
   "blank": 1511,
   "comment": 592,
   "code": 15938},
+"Java" :{
+  "nFiles": 233,
+  "blank": 2705,
+  "comment": 954,
+  "code": 10788},
 "CUDA" :{
   "nFiles": 56,
   "blank": 2219,
@@ -72,16 +72,6 @@
   "blank": 1008,
   "comment": 131,
   "code": 6069},
-"SQL" :{
-  "nFiles": 78,
-  "blank": 1347,
-  "comment": 253,
-  "code": 5011},
-"Bourne Shell" :{
-  "nFiles": 60,
-  "blank": 708,
-  "comment": 886,
-  "code": 3109},
 "Objective-C" :{
   "nFiles": 7,
   "blank": 603,
@@ -92,6 +82,16 @@
   "blank": 802,
   "comment": 963,
   "code": 2835},
+"SQL" :{
+  "nFiles": 6,
+  "blank": 1242,
+  "comment": 44,
+  "code": 2714},
+"Bourne Shell" :{
+  "nFiles": 52,
+  "blank": 619,
+  "comment": 802,
+  "code": 2699},
 "Rust" :{
   "nFiles": 29,
   "blank": 423,
@@ -102,41 +102,41 @@
   "blank": 7,
   "comment": 0,
   "code": 2000},
-"Maven" :{
-  "nFiles": 11,
-  "blank": 96,
-  "comment": 45,
-  "code": 1337},
 "DOS Batch" :{
   "nFiles": 20,
   "blank": 310,
   "comment": 27,
   "code": 1305},
+"Maven" :{
+  "nFiles": 10,
+  "blank": 80,
+  "comment": 38,
+  "code": 1140},
 "Gradle" :{
   "nFiles": 29,
   "blank": 194,
   "comment": 62,
   "code": 1082},
 "Dockerfile" :{
-  "nFiles": 44,
-  "blank": 429,
-  "comment": 381,
-  "code": 926},
+  "nFiles": 45,
+  "blank": 443,
+  "comment": 396,
+  "code": 953},
 "Kotlin" :{
   "nFiles": 23,
   "blank": 150,
   "comment": 57,
   "code": 866},
+"make" :{
+  "nFiles": 11,
+  "blank": 183,
+  "comment": 110,
+  "code": 698},
 "Swift" :{
   "nFiles": 21,
   "blank": 117,
   "comment": 68,
   "code": 676},
-"make" :{
-  "nFiles": 10,
-  "blank": 159,
-  "comment": 105,
-  "code": 632},
 "diff" :{
   "nFiles": 1,
   "blank": 3,
@@ -172,11 +172,6 @@
   "blank": 23,
   "comment": 58,
   "code": 281},
-"PowerShell" :{
-  "nFiles": 3,
-  "blank": 63,
-  "comment": 97,
-  "code": 204},
 "INI" :{
   "nFiles": 13,
   "blank": 47,
@@ -187,6 +182,11 @@
   "blank": 25,
   "comment": 4,
   "code": 139},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 91,
+  "code": 120},
 "F# Script" :{
   "nFiles": 2,
   "blank": 22,
@@ -263,7 +263,7 @@
   "comment": 18,
   "code": 0},
 "SUM": {
-  "blank": 139551,
-  "comment": 186942,
-  "code": 767144,
-  "nFiles": 7119} }
+  "blank": 135284,
+  "comment": 183373,
+  "code": 745897,
+  "nFiles": 6620} }
