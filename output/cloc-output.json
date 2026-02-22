@@ -1,32 +1,32 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 6.21018409729004,
-  "n_files"            : 6752,
-  "n_lines"            : 1133501,
-  "files_per_second"   : 1087.24635119052,
-  "lines_per_second"   : 182522.930438508,
+  "elapsed_seconds"    : 6.15604996681213,
+  "n_files"            : 6786,
+  "n_lines"            : 1140156,
+  "files_per_second"   : 1102.33023392987,
+  "lines_per_second"   : 185209.023017469,
   "report_file"        : "../output/cloc-output.json"},
 "Python" :{
-  "nFiles": 1159,
-  "blank": 54898,
-  "comment": 115017,
-  "code": 269456},
+  "nFiles": 1164,
+  "blank": 55189,
+  "comment": 115365,
+  "code": 270949},
 "JavaScript" :{
   "nFiles": 2423,
   "blank": 24362,
   "comment": 38596,
   "code": 155918},
 "TypeScript" :{
-  "nFiles": 982,
-  "blank": 7848,
-  "comment": 3038,
-  "code": 78217},
+  "nFiles": 985,
+  "blank": 7920,
+  "comment": 3067,
+  "code": 79355},
 "Dart" :{
-  "nFiles": 1025,
-  "blank": 9651,
-  "comment": 7081,
-  "code": 71550},
+  "nFiles": 1049,
+  "blank": 9994,
+  "comment": 7324,
+  "code": 73894},
 "C++" :{
   "nFiles": 123,
   "blank": 14339,
@@ -52,16 +52,16 @@
   "blank": 2219,
   "comment": 271,
   "code": 9268},
+"Go" :{
+  "nFiles": 67,
+  "blank": 1374,
+  "comment": 1200,
+  "code": 7384},
 "Java" :{
   "nFiles": 166,
   "blank": 1970,
   "comment": 790,
   "code": 7164},
-"Go" :{
-  "nFiles": 66,
-  "blank": 1342,
-  "comment": 1177,
-  "code": 7113},
 "Pascal" :{
   "nFiles": 25,
   "blank": 886,
@@ -227,6 +227,11 @@
   "blank": 6,
   "comment": 0,
   "code": 22},
+"GLSL" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 21},
 "Nix" :{
   "nFiles": 1,
   "blank": 1,
@@ -263,7 +268,7 @@
   "comment": 18,
   "code": 0},
 "SUM": {
-  "blank": 143811,
-  "comment": 189820,
-  "code": 799870,
-  "nFiles": 6752} }
+  "blank": 144556,
+  "comment": 190463,
+  "code": 805137,
+  "nFiles": 6786} }
